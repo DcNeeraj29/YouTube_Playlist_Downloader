@@ -1,0 +1,3 @@
+yt_dlp
+tqdm
+ffmpeg-python
