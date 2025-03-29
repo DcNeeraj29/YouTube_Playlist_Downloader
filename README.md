@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Playlist Downloader
 
 A Python-based application for downloading YouTube Playlist with both GUI and CLI interfaces. Supports various video resolutions and formats.
 
